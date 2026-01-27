@@ -5,11 +5,14 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data files (security)
+# Data files (security - 원본 교과서 및 SDG 기준서 텍스트)
+*.txt
+!requirements.txt
 *.csv
 *.xlsx
 *.xls
 data/
+raw_data/
 
 # Virtual env
 venv/
