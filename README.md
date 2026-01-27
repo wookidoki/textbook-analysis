@@ -266,7 +266,7 @@ Living-Resources-SDG-Analysis/
 
 - **원본 교과서 텍스트**: 저작권 문제로 공개 불가
 - **SDG 기준서 텍스트**: 저작권 문제로 공개 불가
-- **논문 상세 내용**: 공동 저자 문제로 공개 불가
+- **논문 상세 내용**: 저자 문제로 공개 불가
 
 본 레포지터리는 **데이터 분석 결과 및 시각화만을 공개**합니다.
 
@@ -274,7 +274,7 @@ Living-Resources-SDG-Analysis/
 
 ## 👤 Author
 
-**이승욱 (Lee Seungwook)**
+**이승욱 (Lee Seongwook)**
 
 - **역할**: 데이터 분석 및 시각화
 - **분석 도구**: Python, TF-IDF, SBERT
@@ -289,7 +289,8 @@ MIT License
 ---
 
 ## 🔗 References
-
+- [https://ebook-product.kyobobook.co.kr/dig/epd/scholardetail/product?cmdtcode=4050071786437]
+기술⋅가정 교과서 생활자원 단원의 지속가능발전목표(SDGs) 연계성 분석 이지영
 - [UN Sustainable Development Goals](https://sdgs.un.org/)
 - [KoNLPy Documentation](https://konlpy.org/)
 - [Sentence-Transformers Documentation](https://www.sbert.net/)
